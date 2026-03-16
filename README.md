@@ -21,7 +21,7 @@
 
 | Platform | Link |
 |----------|------|
-| 🤖 Android (APK) | [Download latest APK](./android/app-release.apk) |
+| 🤖 Android (APK) | [Download latest APK](https://github.com/davidleearchives-dotcom/PURPLE_GUIDE/releases/download/v1.0.0/app-release.apk) |
 | 🍎 iOS (App Store) | Coming soon |
 | 🌐 Web | [purpleguide.marblebang.online](https://purpleguide.marblebang.online) |
 
